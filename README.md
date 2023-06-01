@@ -1,5 +1,5 @@
 # DownloadVideos
-Размести на github: https://pegas365i4.github.io/ClickerTime/
+Размести на github: https://pegas365i4.github.io/DownloadVideos20230601
 Программа скачивает видео файлы самого лучшего качества с субтитрами если они есть!
 Ссылку на файл и другие настройки меняем сначала в файле main.py
 
